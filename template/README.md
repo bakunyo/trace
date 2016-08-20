@@ -4,6 +4,12 @@ http://www.webcreatorbox.com/tech/improve-design-skills/
 ### Step 1
 サイト決定
 
+- [The Best Designs](https://www.thebestdesigns.com/)
+- [MUUUUU.ORG](http://muuuuu.org/)
+- [ARTNOC.COM](http://art-noc.com/)
+- [週刊ウェブデザイン](http://www.dailywebdesign.com/)
+- [I/O 3000](http://io3000.com/)
+
 ### Step 2
 - なんのサイトか
 - ターゲットのユーザー層を予想
