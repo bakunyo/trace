@@ -14,6 +14,7 @@ http://www.webcreatorbox.com/tech/improve-design-skills/
 - なんのサイトか
 - ターゲットのユーザー層を予想
 - 配色
+  - [カラー成分測定](http://ironodata.info/extraction/irotoridori.php)
 - 書体
 - レイアウト
 
