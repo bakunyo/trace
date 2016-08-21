@@ -19,6 +19,7 @@ http://www.webcreatorbox.com/tech/improve-design-skills/
 
 ### Step 3
 - [Blipshot](https://chrome.google.com/webstore/detail/blipshot-%E2%80%94-one-click-scre/mdaboflcmhejfihjcbmdiebgfchigjcf)
+- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
 - Digital Color Meter （Mac標準）
 
 ワイヤーフレームを書き出す
