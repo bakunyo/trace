@@ -16,6 +16,8 @@ http://www.webcreatorbox.com/tech/improve-design-skills/
 - 配色
   - [カラー成分測定](http://ironodata.info/extraction/irotoridori.php)
 - 書体
+  - ChromeDevTool > Elements > Computed
+  - [WhatTheFont](http://www.myfonts.com/WhatTheFont/)
 - レイアウト
 
 ### Step 3
